@@ -1,0 +1,661 @@
+<template>
+	<div id="module6" class="module-main module mshow6 product7" data-title="更多目的地">
+		<img class="img-title csmc" src="../../assets/img/template/1564114350431.jpg" alt="">
+		<div class="div-nav">
+			<ul class="nav nav2 li-mian for">
+				<li class="addSensorsTrackByTab select OvO omm" @click="QaQ()">欧美</li>
+				<li class="addSensorsTrackByTab oxx" @click="TnT()">澳新</li>
+				<li class="addSensorsTrackByTab zdd" @click="QvQ()">中东非</li>
+				<li class="addSensorsTrackByTab hdd" @click="QuQ()">海短线</li>
+			</ul>
+		</div>
+		<div class="tab-main type_COMMON_STYLE_5" data-type="COMMON_STYLE_5">
+			<div class="tab-list om" style="display: block;">
+				<ul class="list">
+					<li class="select" style="display: block;">
+						<a class="addStatistics addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/42d8c270-35ce-4205-a4ff-5cd75c2cccf4_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【黄石爆款】美国东西海岸，大瀑布，黄石国家公园16日14晚跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>23399</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/fdfc2446-4cf1-4c97-b09d-ab119d3aa4c6_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【早定立减】奥地利 捷克 匈牙利12日品质游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>10685</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/eb6e2726-d3e0-4710-84d0-8c86bc0b946c_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【早定立减】西班牙-葡萄牙12日跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>9500</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/C_1413427699178_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">法国-瑞士-意大利-德国11日经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>6099</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/a0109b53-c05c-47b2-959c-4702a1feee35_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[限时立减]俄罗斯9日7晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>8015</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/057ae479-126a-4e5e-83e0-b04275c91f85_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[早定立减]【早定立减】东欧五国德国+捷克+奥地利+匈牙利+斯洛伐克12日品质游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>9599</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/f6ecf4c4-8c4b-4f3d-8c50-485524a2c951_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【驴妈妈臻选】 希腊圣托里尼、扎金索斯11日9晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>27699</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								 <img src="../../assets/img/template/om/fbd2b838-357c-4adf-b1a6-d9225cb5da56_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【驴妈妈臻选 】英国 英格兰 苏格兰12日10晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>31900</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/C_1414053582983_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【早定立减】法国-意大利-瑞士12日品质游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>13899</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/C_1413368098187_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【早定立减】西班牙-葡萄牙12日品质游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>10599</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/f8436731-a528-4d09-bb7a-9fa170af495d_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【国庆预售-全国联运】意大利一地，升级1晚威尼斯本岛酒店，2晚托斯卡纳酒店12日深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>12399</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addStatistics addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/om/2067923a-e9f5-4b68-a481-d896a3a93dd3_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【2019爆款】美西黄石公园小木屋+羚羊彩穴马蹄湾轻奢之旅13日10晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>16241</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+				<div class="more addSensorsTrackMore"style="display:block;" @click="test">查看更多&nbsp;&gt;&gt;</div>
+			</div>
+			<div class="tab-list ox" style="display: none">
+				<ul class="list">
+					<li class="select" style="display: block;">
+						<a class="addStatistics addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/01679a12-a980-4003-8099-6910817689ca_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【国庆预售】【澳大利亚一地】8日6晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>19800</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/ede2ed0e-c98f-4b6a-b26f-4a057ed3cd0e_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【纯玩澳大利亚一地】、悉尼、凯恩斯、墨尔本、摩顿岛11日8晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>15999</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/df6332f5-32ce-45e4-b0f1-bd5096c687ba_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【新西兰一地】南北岛9日6晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>12800</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/a4dbfab9-49e0-4040-925e-eb0cd3cbc410_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">澳大利亚新西兰南北岛15日12晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>25999</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/79ee72ff-6c46-4a07-8541-a7f9c47ea58c_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">新西兰南北岛11日8晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>18900</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/a9b78396-732d-456f-93f1-072fb91fa424_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">西澳大利亚8日6晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>14900</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/ox/030eee2d-d362-4c22-8d5c-6760a4b8fe0a_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【特惠】澳大利亚一地8日6晚跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>9699</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+				<div class="more addSensorsTrackMore"style="display: block;" @click="test">查看更多&nbsp;&gt;&gt;</div>
+			</div>
+			<div class="tab-list zdf" style="display: none;">
+				<ul class="list">
+					<li class="select" style="display: block;">
+						<a class="addStatistics addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/zdf/0075a922-f38d-4d56-a20e-af288a16495d_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[国庆][11月-12月班期早鸟计划，2人下单立减500元]【2人下单即送超级会员】【驴妈妈臻选，赠旅游意外险】土耳其-横跨欧亚的浪漫11日8晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>5999</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/zdf/1474702d-6cc7-4d20-a622-fba5ddc43408_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[国庆][早鸟计划，下单立减300元每人，并赠送超级会员]【驴妈妈臻选】马达加斯加10日7晚经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>25999</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/zdf/d12c580a-8993-47ea-a7a9-0fbdcd52c918_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[国庆][早鸟计划，下单立减300元每人，并赠送超级会员]【驴妈妈臻选】毛里求斯、马达加斯加奇幻动物13日10晚深度游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>27499</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/zdf/97ae71f0-791a-413f-b87a-2610f0164387_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【纯玩】摩洛哥-12日经典游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>13499</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/zdf/40499825-4a92-4ec9-8ac6-1dfac9f3670e_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[限时立减]土耳其11日8晚品质游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>11299</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+				<div class="more addSensorsTrackMore"style="display: block;" @click="test">查看更多&nbsp;&gt;&gt;</div>
+			</div>
+			<div class="tab-list hdx" style="display: none;">
+				<ul class="list">
+					<li class="select" style="display: block;">
+						<a class="addStatistics addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/a1b52ffc-9e66-429c-9ffd-1ba40657ecd4_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【暑期特卖】泰国甲米5日4晚自由行</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>1559</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/bba0fdb6-515f-4234-925e-6cdfb59bbbb5_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">[国庆预售]泰国普吉岛6日4晚跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>1899</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/01c3ba54-3270-4b96-8f5c-152769f7026f_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">柬埔寨暹粒一地6日5晚跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>1599</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="" style="display: block;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/ce8dd74c-b321-4902-bb30-ac638efaa903_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">越南胡志明、美奈、芽庄、河内7日6晚跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>4499</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/a5eba22d-69d4-4e69-a6e8-8e825f3c6a29_300_200.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">【带着婚纱去旅行】水晶巴厘岛7日5晚半自助跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>5419</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+					<li class="om-list" style="display: none;">
+						<a class="addSensorsTrackProduct" href="#">
+							<div class="load-img ztImgLoaded">
+								<img src="../../assets/img/template/hdx/4cac8dec-eb77-4f70-b12d-799c189c760c_480_320.jpg" alt="">
+							</div>
+							<div class="cot">
+								<div class="name1">大美长滩5日4晚半自助跟团游</div>
+								<div class="name2"></div>
+								<div class="price">
+									<span>￥
+										<strong>2659</strong>
+										起/人
+									</span>
+								</div>
+								<button class="state1">立即抢购</button>
+							</div>
+						</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+				<div class="more addSensorsTrackMore"style="display: block;" @click="test">查看更多&nbsp;&gt;&gt;</div>
+			</div>
+		</div>
+	</div>
+</template>
+
+<script>
+	export default{
+		name:'module6',
+		methods:{
+			test(){
+				if($(".om-list").css("display")=="none"){
+						$(".om-list").show();
+					}else{
+						$(".om-list").hide();            
+					}
+				},
+			QvQ(){
+				if($(".zdf").css("display")=="none"){
+						$(".zdf").show();
+						$(".om").hide();
+						$(".ox").hide();
+						$(".hdx").hide();
+						$(".zdd").css({"background":"#321c63"});
+						$(".omm").css({"background":"#bc80ff"});
+						$(".oxx").css({"background":"#bc80ff"});
+						$(".hdd").css({"background":"#bc80ff"});
+					}
+				},
+			TnT(){
+				if($(".ox").css("display")=="none"){
+						$(".ox").show();
+						$(".om").hide();
+						$(".zdf").hide();
+						$(".hdx").hide();
+						$(".oxx").css({"background":"#321c63"});
+						$(".omm").css({"background":"#bc80ff"});
+						$(".zdd").css({"background":"#bc80ff"});
+						$(".hdd").css({"background":"#bc80ff"});
+					}
+				},
+			QuQ(){
+				if($(".hdx").css("display")=="none"){
+						$(".hdx").show();
+						$(".om").hide();
+						$(".zdf").hide();
+						$(".ox").hide();
+						$(".hdd").css({"background":"#321c63"});
+						$(".omm").css({"background":"#bc80ff"});
+						$(".zdd").css({"background":"#bc80ff"});
+						$(".oxx").css({"background":"#bc80ff"});
+					}
+				},
+			QaQ(){
+				if($(".om").css("display")=="none"){
+						$(".om").show();
+						$(".hdx").hide();
+						$(".zdf").hide();
+						$(".ox").hide();
+						$(".omm").css({"background":"#321c63"});
+						$(".hdd").css({"background":"#bc80ff"});
+						$(".zdd").css({"background":"#bc80ff"});
+						$(".oxx").css({"background":"#bc80ff"});
+					}
+				},
+		}
+	}
+</script>
+<style scoped>
+.clear{clear: both;}
+.img-title{width: 100%;height: 98px;}
+.tab-list{width: 100%;height: auto;;margin:10px;}
+.list li{width: 50%;height: 50%;float: left;}
+.ztImgLoaded img{width: 170px;height: 111px;}
+.cot{width: 170px;height: 60px;background: white;margin-bottom: 5px;}
+.name1{font-size: 16px;text-overflow:ellipsis; white-space:nowrap; overflow:hidden; color: black;}
+.name2{width:170px;height: 5px;}
+.price{font-size: 12px;color: red;}
+.state1{background: #de2500;border: none;color: white;font-size: 12px;float: right;}
+.lab2{width: 6%; height: 5%; background: url("//pics.lvjs.com.cn/mobile/zt/templates/template4/img/label4.png") no-repeat center center / 100% 100%; font-size: 8px; color: #fff;}
+.product7 .tab-main .tab-list label{ position: absolute;color:#fff; font-size: 10px; z-index: 1;}
+.product7 .tab-main .tab-list .lab1{ top: 60px; left: 70px; background: rgba(0,0,0,.6); border-radius:6px;line-height: 12px; padding: 60px; max-width: 50%; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+.nav{width: 100%;height: 50px; background: #bc80ff; color: #fff;}
+.OvO{background: #321c63;}
+.addSensorsTrackByTab{width: 25%;height: 50px;font-size: 16px;float: left;text-align: center;line-height: 50px;}
+.tab-list .more{color: #fff; text-align: center; border-radius: 0 0 5px 5px;height: 25px;font-size: 16px;line-height: 25px;background:#46278a;margin-top: 10px;width: 360px;}
+</style>
